@@ -1,0 +1,11 @@
+.heading{
+    font-size: 2.4rem;
+}
+
+
+/* ---------- ------------media ---------------------- */
+@media (max-width:670px){
+    .logo{
+        width: 150px;
+    }
+}
